@@ -1,0 +1,64 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 2,
+      "nim": 1841312313,
+      "nama": "Jennie",
+      "alamat": "Korea",
+      "hp": "62821232323",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nim": 184131223,
+      "nama": "Charless",
+      "alamat": "New York",
+      "hp": "628212324",
+      "angkatan": 2017,
+      "status": "lulus"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nim": "1841720059",
+      "nama": "Stevani Putri ",
+      "alamat": "Jalan kenangan",
+      "hp": "232323",
+      "angkatan": "2018",
+      "status": "aktif ya bund"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "nim": "1841720059",
+      "nama": "Alfan",
+      "alamat": "JL.ir.Rais",
+      "hp": "0888",
+      "angkatan": "2018",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "nim": "18973232",
+      "nama": "Alfan Noufal Nasruddin Ganateng",
+      "alamat": "Jalan Ir.Rais",
+      "hp": "0899977",
+      "angkatan": "2018",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "nim": "1841720059",
+      "nama": "Stevani Putri Nasruddin Nasss",
+      "alamat": "adsdsdsdasdasdasdasdadadasdasdad",
+      "hp": "098776",
+      "angkatan": "2018",
+      "status": "Aktif"
+    }
+  ]
+}
